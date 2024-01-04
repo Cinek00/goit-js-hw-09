@@ -29,4 +29,4 @@ function getRandomHexColor() {
 
     startBtn.disabled = false;
   });
-  // dodaje komentarz zeby zaaktualizowac page v2
+  // dodaje komentarz zeby zaaktualizowac page v3
